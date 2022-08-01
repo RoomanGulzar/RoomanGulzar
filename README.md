@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RoomanGulzar
-- 👀 I’m interested in Flutter
+- 👀 I’m interested in WebDevelopement
 - 🌱 I’m currently learning Git
-- 💞️ I’m looking to collaborate on flutter
+- 💞️ I’m looking to collaborate on web
 - 📫 How to reach me via Email
 
 <!---
