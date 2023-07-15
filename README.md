@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RoomanGulzar
-- 👀 I’m interested in WebDevelopement
-- 🌱 I’m currently learning Git
-- 💞️ I’m looking to collaborate on web
+- 👀 I’m interested in WebDevelopement,Mobile App developement and DevOps
+- 🌱 I’m currently learning DevOps
+- 💞️ I’m looking to collaborate on Docker
 - 📫 How to reach me via Email
 
 <!---
