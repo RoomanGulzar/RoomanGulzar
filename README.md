@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RoomanGulzar
-- 👀 I’m interested in WebDevelopement,Mobile App developement and Python
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on AI
+- 👀 I’m interested in WebDevelopement, Jobs, Tasks
+- 🌱 I’m currently about .net and latest trends
+- 💞️ I’m looking to collaborate on your .net projects
 - 📫 Reach me via mail: roomangulzargulzar@gmail.com
 
 <!---
